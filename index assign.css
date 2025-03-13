@@ -1,0 +1,30 @@
+body 
+{
+text-align: center;
+    /*background-color: olive;*/
+background-image: linear-gradient(olive, orangered);
+background-image: radial-gradient(yellow, red);
+}
+nav
+{
+  text-align: center;
+    background-color: blue,black;
+   color: darkgoldenrod;
+   border: 2px solid green;
+   border-radius: 4cm 4cm;
+   height: 600px;
+   width: 200px;
+   float: left;
+   padding: 5px;
+   line-height: 30px;
+}
+footer
+{
+text-align: center;
+margin-right: 200px;
+border: 80cm 30cm;
+}
+image
+{
+    margin-right: 200px;
+}
